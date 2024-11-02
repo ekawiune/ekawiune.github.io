@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ekawiune.github.io/MSO/sitemap_index.txt
+Sitemap: https://ekawiune.github.io/Mmo/sitemap_index.txt
+Sitemap: https://ekawiune.github.io/NXG/sitemap_index.txt
+Sitemap: https://ekawiune.github.io/aoT/sitemap_index.txt
